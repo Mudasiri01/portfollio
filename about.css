@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(23, 23, 23);
+}
+h1{
+    color: rgb(242, 240, 240);
+    text-align: center;
+}
+.imgdiv{
+    height: 300px;
+    width: 300px;
+    /* background-color: rgb(174, 220, 9); */
+    border-radius: 50%;
+}
+.imgabout{
+     height: 300px;
+    width: 400px;
+    margin-left: 500px;
+    background-color: yellowgreen;
+    border-radius: 70%;
+   
+}
+.h3{
+    color: rgb(231, 231, 238);
+    text-align: center;
+}
+.p{
+    color: rgb(245, 242, 242);
+    text-align: center;
+}
